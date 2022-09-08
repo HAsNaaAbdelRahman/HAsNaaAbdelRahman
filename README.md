@@ -31,6 +31,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   </a>
   
+    <a href="https://docs.oracle.com/javase/8/docs/api/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </a>
+  
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
