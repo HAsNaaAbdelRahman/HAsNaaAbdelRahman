@@ -31,7 +31,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   </a>
   
-    <a href="https://www.oracle.com/java/">
+    <a href="https://www.java.com/en/">
   <img src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
   
