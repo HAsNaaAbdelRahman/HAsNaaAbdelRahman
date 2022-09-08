@@ -34,7 +34,7 @@
   </a>
   
     <a href="https://www.python.org/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfFMA5RyDLeXWcf3p3R97lYN7w3W7_MyLs6Npuho&s" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfFMA5RyDLeXWcf3p3R97lYN7w3W7_MyLs6Npuho&s" title="Python" alt="Python" width="30" height="40"/>&nbsp;
   </a>
   
 </div>
