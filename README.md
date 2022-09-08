@@ -72,7 +72,7 @@
       
   </a>
       <a href="https://atcoder.jp/users/HAsNaa_">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder Badge" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/7151918?s=280&v=4" alt="AtCoder Badge" width="40" height="40"/>&nbsp;
       
   </a>
    </a>
