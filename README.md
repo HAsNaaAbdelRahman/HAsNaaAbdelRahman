@@ -31,7 +31,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   </a>
   
-    <a href="https://docs.oracle.com/javase/8/docs/api/">
+    <a href="https://www.oracle.com/java/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
   
