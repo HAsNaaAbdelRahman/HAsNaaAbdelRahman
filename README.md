@@ -23,8 +23,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-
-  
     <a href="https://www.cprogramming.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
   </a>
@@ -32,9 +30,6 @@
   <a href="https://devdocs.io/cpp/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" alt="C++ Badge" width="40" height="40"/>&nbsp;
   </a>
-  
-
-  
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
