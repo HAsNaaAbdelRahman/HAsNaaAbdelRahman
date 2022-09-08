@@ -5,6 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+  <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=HAsNaaAbdelRahman&style=flat-square&color=blue" alt=""/>
+</div>
 <div>
 <h1>
   Welcome To My Github Profile
@@ -34,10 +37,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="badges">
 
-  <img src="https://komarev.com/ghpvc/?username=HAsNaaAbdelRahman&style=flat-square&color=blue" alt=""/>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
