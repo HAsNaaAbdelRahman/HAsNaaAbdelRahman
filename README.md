@@ -61,7 +61,7 @@
   </a>
    </a>
       <a href="https://www.codechef.com/users/hasnaa123">
-    <img src="https://yt3.ggpht.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="CodeChef Badge" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/media/8cc57f8ba9c4c884ec562d163cd506cc.png" alt="CodeChef Badge" width="40" height="40"/>&nbsp;
       
   </a>
 </div>
