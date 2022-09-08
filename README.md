@@ -30,6 +30,9 @@
   <a href="https://devdocs.io/cpp/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" alt="C++ Badge" width="40" height="40"/>&nbsp;
   </a>
+   <a href="https://www.python.org/">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
