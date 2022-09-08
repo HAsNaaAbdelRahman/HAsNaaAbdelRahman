@@ -54,8 +54,10 @@
       
   </a>
 </div>
+<div>
 - 🔭 I’m currently Studying on Faculty of Computers & Informatics at Suez Canal University.
 - 🌱 I’m currently learning algorithms
+  </div>
 <!--
 **HAsNaaAbdelRahman/HAsNaaAbdelRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
