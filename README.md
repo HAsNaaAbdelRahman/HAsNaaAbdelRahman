@@ -29,6 +29,17 @@
 
 
 </div>
+
+### :hammer_and_wrench:  Competitive Programming Profiles:
+
+<div id="badges">
+  <a href="https://codeforces.com/profile/...HAsNaa....">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="Codeforces Badge"/>
+  </a>
+  
+
+</div>
+
 <!--
 **HAsNaaAbdelRahman/HAsNaaAbdelRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
