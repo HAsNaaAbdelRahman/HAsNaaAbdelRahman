@@ -22,7 +22,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div id="badges">
     <a href="https://www.cprogramming.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   </a>
