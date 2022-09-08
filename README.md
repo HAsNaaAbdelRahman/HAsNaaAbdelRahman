@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div>
-  <h3>🔭 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.</h3>
-<h3>🌱 I’m currently learning Computer Science.</h3>
-<h3>👨‍💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef.</h3>
+  <h5>🔭 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.</h5>
+<h5>🌱 I’m currently learning Computer Science.</h5>
+<h5>👨‍💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef.</h5>
 </diz>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
