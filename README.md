@@ -34,7 +34,7 @@
 
 <div id="badges">
   <a href="https://codeforces.com/profile/...HAsNaa....">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="Codeforces Badge"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="Codeforces Badge" width="40" height="40"/>&nbsp;
   </a>
   
 
