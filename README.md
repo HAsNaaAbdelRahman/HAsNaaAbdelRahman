@@ -53,6 +53,9 @@
    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
   </a>
+    <a href="https://www.adobe.com/products/Illustrator.html?promoid=RBS7NL7F&mv=other">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
