@@ -23,9 +23,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-     <a href="https://www.java.com/en/">
-  <img src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  </a>
+
   
     <a href="https://www.cprogramming.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -35,7 +33,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   </a>
   
- 
+    <a href="https://www.python.org/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfFMA5RyDLeXWcf3p3R97lYN7w3W7_MyLs6Npuho&s" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </a>
   
 </div>
 
