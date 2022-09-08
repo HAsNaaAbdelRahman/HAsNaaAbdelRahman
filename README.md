@@ -38,8 +38,12 @@
   </a>
     <a href="https://leetcode.com/HAsNaa-/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode Badge" width="40" height="40"/>&nbsp;
+      
   </a>
-
+      <a href="https://atcoder.jp/users/HAsNaa_">
+    <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder Badge" width="40" height="40"/>&nbsp;
+      
+  </a>
 </div>
 
 <!--
