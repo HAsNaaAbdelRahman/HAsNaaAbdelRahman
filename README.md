@@ -49,6 +49,10 @@
    <a href="https://www.java.com/en/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Badge" width="40" height="40"/>&nbsp;
   </a>
+   </a>
+   <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
