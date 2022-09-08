@@ -16,7 +16,7 @@
 <h5>👨‍💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef.</h5>
 <h5>How To Reach Me 
   <a href="a02040456@gmail.com">
-
+  </a>
 </h5>
 
 </diz>
