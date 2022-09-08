@@ -67,9 +67,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<div>
 - 🔭 I’m currently Studying on Faculty of Computers & Informatics at Suez Canal University.
-  
 - 🌱 I’m currently learning algorithms
-  </div>
+-->
+
+
