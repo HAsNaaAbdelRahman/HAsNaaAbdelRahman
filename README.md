@@ -26,12 +26,11 @@
     <a href="https://www.cprogramming.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   </a>
-  
-     <a href="https://docs.oracle.com/javase/8/docs/api/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  </a>
+      <a href="https://docs.oracle.com/javase/8/docs/api/">
 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
+ </a>
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
