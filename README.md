@@ -40,7 +40,7 @@
 
 <div>
     <a href="https://www.cprogramming.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://devdocs.io/cpp/">
