@@ -32,7 +32,7 @@
   </a>
   
     <a href="https://www.oracle.com/java/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
   
 </div>
