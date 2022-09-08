@@ -33,9 +33,6 @@
   <a href="https://twitter.com/Hasnaa90853053">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.a02040456@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 
