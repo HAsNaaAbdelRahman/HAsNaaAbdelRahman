@@ -17,10 +17,7 @@
   </div>
 
   <div>
-<h5>How To Reach Me 
-  <a href="a02040456@gmail.com">
-  </a>
-</h5>
+<h5>How To Reach Me a02040456@gmail.com </h5>
   </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
