@@ -30,12 +30,11 @@
   <a href="https://www.linkedin.com/in/hasnaa-abdelrahman-567454216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
   <a href="https://twitter.com/Hasnaa90853053">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.a02040456@gmail.com">
-  <img src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg=white" alt="Gmail Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
