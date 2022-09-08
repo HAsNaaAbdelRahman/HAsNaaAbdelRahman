@@ -77,7 +77,7 @@
   </a>
    </a>
       <a href="https://www.codechef.com/users/hasnaa123">
-    <img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/media/8cc57f8ba9c4c884ec562d163cd506cc.png" alt="CodeChef Badge" width="40" height="40"/>&nbsp;
+    <img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="CodeChef Badge" width="40" height="40"/>&nbsp;
       
   </a>
 </div>
