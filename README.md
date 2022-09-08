@@ -26,15 +26,15 @@
 
   
     <a href="https://www.cprogramming.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://devdocs.io/cpp/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXwuEtnFt4iszh-tS7lGSjg2A7-i61MMYrlIMsk&s" alt="C++ Badge" width="40" height="40"/>&nbsp;
   </a>
   
     <a href="https://www.python.org/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfFMA5RyDLeXWcf3p3R97lYN7w3W7_MyLs6Npuho&s" title="Python" alt="Python" width="30" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfFMA5RyDLeXWcf3p3R97lYN7w3W7_MyLs6Npuho&s" alt="Python Badge" width="40" height="40"/>&nbsp;
   </a>
   
 </div>
