@@ -17,9 +17,6 @@
 <h5>👨‍💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef.</h5>
   </div>
 
-  <div>
-<h5>How To Reach Me <a href="https://www.a02040456@gmail.com"></a> </h5>
-  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -36,6 +33,9 @@
   
   <a href="https://twitter.com/Hasnaa90853053">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.a02040456@gmail.com">
+  <img src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg=white" alt="Gmail Badge"/>
   </a>
 </div>
 
