@@ -12,6 +12,7 @@
 </h1>
 </div>
   <div>
+  <h1> about me </h1>
   <h5>🔭 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.</h5>
 <h5>🌱 I’m currently learning Computer Science.</h5>
 <h5>👨‍💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef.</h5>
