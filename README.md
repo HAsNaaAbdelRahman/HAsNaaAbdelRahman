@@ -81,6 +81,11 @@
     <img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="CodeChef Badge" width="40" height="40"/>&nbsp;
       
   </a>
+     </a>
+      <a href="https://www.hackerrank.com/dhasnaa70?hr_r=1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="HackerRank Badge" width="40" height="40"/>&nbsp;
+      
+  </a>
 </div>
 
 <!--
