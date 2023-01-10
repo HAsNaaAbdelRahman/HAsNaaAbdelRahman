@@ -60,7 +60,7 @@
   </a>
 
    <a href="https://www.linux.org/">
-  <img src="https://imgs.search.brave.com/6zv6HD2Fed0y1IrOq922lA766y9nkvysHDYnz1dxhiQ/rs:fit:728:878:1/g:ce/aHR0cHM6Ly9jZG4u/aW1nYmluLmNvbS8y/LzIzLzEvaW1nYmlu/LWxpbnV4LWRpc3Ry/aWJ1dGlvbi10dXgt/ZnJlZS1zb2Z0d2Fy/ZS1saW51eC1rZXJu/ZWwtbGludXgtc05o/QTIzenZxTENXRHJj/Uk5kTno1N0d0cy5q/cGc" alt="Linux Badge" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/f_DgWRjZh26HP5A9VjHwnlSzxNfunLf33gbqk-iw-zg/rs:fit:999:1104:1/g:ce/aHR0cHM6Ly93d3cu/YnJvc2l4LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvTGludXhf/TG9nb18wNy5wbmc" alt="Linux Badge" width="40" height="40"/>&nbsp;
   </a>
   
   
