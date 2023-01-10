@@ -58,6 +58,12 @@
     <a href="https://www.adobe.com/products/Illustrator.html?promoid=RBS7NL7F&mv=other">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
   </a>
+
+   <a href="https://www.linux.org/">
+  <img src="https://imgs.search.brave.com/6zv6HD2Fed0y1IrOq922lA766y9nkvysHDYnz1dxhiQ/rs:fit:728:878:1/g:ce/aHR0cHM6Ly9jZG4u/aW1nYmluLmNvbS8y/LzIzLzEvaW1nYmlu/LWxpbnV4LWRpc3Ry/aWJ1dGlvbi10dXgt/ZnJlZS1zb2Z0d2Fy/ZS1saW51eC1rZXJu/ZWwtbGludXgtc05o/QTIzenZxTENXRHJj/Uk5kTno1N0d0cy5q/cGc" alt="Linux Badge" width="40" height="40"/>&nbsp;
+  </a>
+  
+  
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
