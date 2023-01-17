@@ -38,6 +38,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+     <a href="https://en.wikipedia.org/wiki/HTML">
+  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" alt="HTML Badge" width="40" height="40"/>&nbsp;
+  </a>
+    <a href="https://en.wikipedia.org/wiki/CSS">
+  <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" alt="CSS Badge" width="40" height="40"/>&nbsp;
+  </a>
     <a href="https://www.cprogramming.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
   </a>
@@ -68,12 +74,7 @@
   <img src="https://imgs.search.brave.com/y5828Si1ug6JZ0uD6RU8vWiipdTWaSmh3fVwr_Nf6YM/rs:fit:895:800:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy8zOC0zODkyNDRf/NDEtMjgtamFudWFy/eS0yMDE3LW1hdGxh/Yi1sb2dvLXRyYW5z/cGFyZW50LWNsaXBh/cnQucG5n" alt="Matlab Badge" width="40" height="40"/>&nbsp;
   </a>
   
-   <a href="https://en.wikipedia.org/wiki/HTML">
-  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" alt="HTML Badge" width="40" height="40"/>&nbsp;
-  </a>
-    <a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" alt="CSS Badge" width="40" height="40"/>&nbsp;
-  </a>
+
   
 </div>
 
