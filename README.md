@@ -64,6 +64,10 @@
   </a>
   
   
+   <a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://imgs.search.brave.com/y5828Si1ug6JZ0uD6RU8vWiipdTWaSmh3fVwr_Nf6YM/rs:fit:895:800:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy8zOC0zODkyNDRf/NDEtMjgtamFudWFy/eS0yMDE3LW1hdGxh/Yi1sb2dvLXRyYW5z/cGFyZW50LWNsaXBh/cnQucG5n" alt="Matlab Badge" width="40" height="40"/>&nbsp;
+  </a>
+  
 </div>
 
 ### :hammer_and_wrench:  Competitive Programming Profiles:
