@@ -24,10 +24,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hasnaa-abdelrahman-567454216/">
-    <img src="https://simpleicons.org/icons/linkedin.svg"  width="40" height="40" alt="LinkedIn Badge"/>
+    <img src="https://simpleicons.org/icons/linkedin.svg"  width="40" height="20" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Hasnaa90853053">
-    <img src="https://simpleicons.org/icons/twitter.svg"  width="40" height="40" alt="Twitter Badge"/>
+    <img src="https://simpleicons.org/icons/twitter.svg"  width="40" height="20" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -56,10 +56,10 @@
   </a>
    </a>
    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://www.adobe.com/products/Illustrator.html?promoid=RBS7NL7F&mv=other">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/adobeillustrator.svg" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
   </a>
 
    <a href="https://www.linux.org/">
