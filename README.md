@@ -42,11 +42,11 @@
   <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" alt="CSS Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://www.cprogramming.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/c.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://devdocs.io/cpp/">
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++ Badge" width="40" height="40"/>&nbsp;
   </a>
    <a href="https://www.python.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" width="40" height="40"/>&nbsp;
