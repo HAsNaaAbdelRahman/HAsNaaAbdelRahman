@@ -51,11 +51,7 @@
    <a href="https://www.python.org/">
   <img src="https://simpleicons.org/icons/python.svg" alt="Python Badge" width="40" height="40"/>&nbsp;
   </a>
-   <a href="https://www.java.com/en/">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Badge" width="40" height="40"/>&nbsp;
-  </a>
-   </a>
-   <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other">
+    <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other">
   <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="PhotoShop Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://www.adobe.com/products/Illustrator.html?promoid=RBS7NL7F&mv=other">
@@ -65,7 +61,9 @@
    <a href="https://www.linux.org/">
   <img src="https://simpleicons.org/icons/linux.svg" alt="Linux Badge" width="40" height="40"/>&nbsp;
   </a>
-  
+     <a href="https://www.java.com/en/">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Badge" width="40" height="40"/>&nbsp;
+  </a>
   
    <a href="https://www.mathworks.com/products/matlab.html">
   <img src="https://imgs.search.brave.com/y5828Si1ug6JZ0uD6RU8vWiipdTWaSmh3fVwr_Nf6YM/rs:fit:895:800:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy8zOC0zODkyNDRf/NDEtMjgtamFudWFy/eS0yMDE3LW1hdGxh/Yi1sb2dvLXRyYW5z/cGFyZW50LWNsaXBh/cnQucG5n" alt="Matlab Badge" width="40" height="40"/>&nbsp;
