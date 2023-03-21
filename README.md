@@ -36,10 +36,10 @@
 
 <div>
      <a href="https://en.wikipedia.org/wiki/HTML">
-  <img src="https://imgs.search.brave.com/s34yvtTY-xgNkvbX6Ir5tgmRbcOZkBSTGTDxAFLCLCM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvSFRNTDVf/YmFkZ2UucG5n" alt="HTML Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://imgs.search.brave.com/Wew3aSGfC4NNqRsh7-MEdi7VjQfBa3WHaWxbkAVnUe4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3R5cGVz/LzMyL2JhZGdlLWNz/cy0zLTUxMi5wbmc" alt="CSS Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://www.cprogramming.com/">
   <img src="https://simpleicons.org/icons/c.svg"  alt="C Badge" width="40" height="40"/>&nbsp;
