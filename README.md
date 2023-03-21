@@ -24,10 +24,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hasnaa-abdelrahman-567454216/">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn Badge"/>
+    <img src="https://simpleicons.org/icons/linkedin.svg"  width="40" height="40" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Hasnaa90853053">
-    <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter Badge"/>
+    <img src="https://simpleicons.org/icons/twitter.svg"  width="40" height="40" alt="Twitter Badge"/>
   </a>
 </div>
 
