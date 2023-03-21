@@ -49,7 +49,7 @@
   <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++ Badge" width="40" height="40"/>&nbsp;
   </a>
    <a href="https://www.python.org/">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python Badge" width="40" height="40"/>&nbsp;
   </a>
    <a href="https://www.java.com/en/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Badge" width="40" height="40"/>&nbsp;
