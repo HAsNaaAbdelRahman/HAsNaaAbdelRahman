@@ -29,10 +29,10 @@
 
 <div>
      <a href="https://en.wikipedia.org/wiki/HTML">
-  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML Badge" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/QTj864aK_RiCgNC4dN0gFvT9ZogbjvI4FHKfLWnNiKQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jbGlw/Z3JvdW5kLmNvbS9p/bWFnZXMvaHRtbDUt/bG9nby0yLnBuZw" alt="HTML Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS Badge" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/YoebBBG-pBf4y8JO_L1oz40pAMoVR_6DZDMCM7YzmBA/rs:fit:860:913:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2th/ZGlyMDE0L2thZGly/MDE0LmdpdGh1Yi5p/by9tYXN0ZXIvYXNz/ZXRzL2Nzc2xvZ28u/cG5n" alt="CSS Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://www.cprogramming.com/">
   <img src="https://imgs.search.brave.com/0F_ZUf9hNSGGuYhfM55Ru_GF2582L2SiEknUBSxA-HQ/rs:fit:798:928:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy8zOTYtMzk2NTg1/N19jLWMtcHJvZ3Jh/bW1pbmctbGFuZ3Vh/Z2UtbG9nby1jbGlw/YXJ0LnBuZw"  alt="C Badge" width="40" height="40"/>&nbsp;
