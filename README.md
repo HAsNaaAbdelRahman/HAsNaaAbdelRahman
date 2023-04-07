@@ -113,7 +113,14 @@
 
 Here are some ideas to get you started:
 
+  <div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HAsNaaAbdelRahman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
