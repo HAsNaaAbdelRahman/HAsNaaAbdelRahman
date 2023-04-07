@@ -23,12 +23,7 @@
 ### :hammer_and_wrench:Connect with me :
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hasnaa-abdelrahman-567454216/">
-    <img src="https://simpleicons.org/icons/linkedin.svg"  width="40" height="30" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Hasnaa90853053">
-    <img src="https://simpleicons.org/icons/twitter.svg"  width="40" height="30" alt="Twitter Badge"/>
-  </a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnaa-abdelrahman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hasnaa90853053) 
 </div>
 
 
