@@ -35,11 +35,11 @@
   <img src="https://simpleicons.org/icons/css3.svg" alt="CSS Badge" width="40" height="40"/>&nbsp;
   </a>
     <a href="https://www.cprogramming.com/">
-  <img src="https://imgs.search.brave.com/uK3EKpCNqJ5xCIC8hL2uUC_E5wnt0kZ72eAzczd-K8w/rs:fit:586:671:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy81MzktNTM5MjQw/NF90cmFuc3BhcmVu/dC1jLWxhbmd1YWdl/LWxvZ28tcG5nLWNs/aXBhcnQucG5n"  alt="C Badge" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/0F_ZUf9hNSGGuYhfM55Ru_GF2582L2SiEknUBSxA-HQ/rs:fit:798:928:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy8zOTYtMzk2NTg1/N19jLWMtcHJvZ3Jh/bW1pbmctbGFuZ3Vh/Z2UtbG9nby1jbGlw/YXJ0LnBuZw"  alt="C Badge" width="40" height="40"/>&nbsp;
   </a>
 
   <a href="https://devdocs.io/cpp/">
-  <img src="https://imgs.search.brave.com/jPjKjiL0XcGeHCzfBVL59S0QFOTFf8PlwGR2DCKnk7Y/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cG5na2l0LmNvbS9w/bmcvZnVsbC8xMDEt/MTAxMDAxMl9kb3du/bG9hZC1wbmcucG5n" alt="C++ Badge" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/GkTKVJXE69QDz_NA-yIdlbPL2g3rejHqZIDXg5vK580/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzExMzc5NDYucG5n" alt="C++ Badge" width="40" height="40"/>&nbsp;
   </a>
    <a href="https://www.python.org/">
   <img src="https://imgs.search.brave.com/vB3rIUOwUdSCy9FquSiK2jlHfO7i8b1KcIbEvkFdqWs/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvUHl0aG9u/X2xvZ29faWNvbi5w/bmc" alt="Python Badge" width="40" height="40"/>&nbsp;
