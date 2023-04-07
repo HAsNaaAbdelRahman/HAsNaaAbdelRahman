@@ -97,6 +97,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="HackerRank Badge" width="40" height="40"/>&nbsp;
       
   </a>
+  <div>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HAsNaaAbdelRahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HAsNaaAbdelRahman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HAsNaaAbdelRahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 <!--
