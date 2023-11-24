@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hasnaa AbdelRahman</h1>
 <h3 align="center">i'm interested on web development</h3>
-
-<img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
-
 - 🌱 I’m currently learning **.Net**
 
 - 📫 How to reach me **a02040456@gmail.com**
+
+ <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
