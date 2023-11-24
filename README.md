@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasnaa AbdelRahman</h1>
 <h3 align="center">i'm interested on web development</h3>
 - 🌱 I’m currently learning Computer Science
-
 - 📫 How to reach me **a02040456@gmail.com**
 
  <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt = "Coding" align = "right" width = "400px">
