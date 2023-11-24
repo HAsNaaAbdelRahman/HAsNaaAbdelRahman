@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **a02040456@gmail.com**
 
- <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt = "Coding">
+ <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt = "Coding" align = "right" width = "400px">
 
 
 <h3 align="left">Connect with me:</h3>
