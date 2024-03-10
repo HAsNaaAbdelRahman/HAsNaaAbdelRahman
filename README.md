@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnaa AbdelRahman</h1>
-<h3 align="center">i'm interested on web development</h3>
+<h3 align="center">I'm interested in web development.</h3>
  🌱 I’m currently learning Computer Science.
 
 - 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
