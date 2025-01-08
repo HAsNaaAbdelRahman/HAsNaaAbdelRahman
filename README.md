@@ -2,7 +2,7 @@
 <h3 align="center">I'm interested in web development.</h3>
  🌱 I’m currently learning Computer Science.
 
-- 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
+- 🌱 I  am a final-year computer science student at Faculty of Computers & Informatics at Suez Canal University.
   
 - 📫 How to reach me **a02040456@gmail.com**
   
