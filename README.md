@@ -4,7 +4,7 @@
 
 - 🌱 I  am a final-year computer science student at Faculty of Computers & Informatics at Suez Canal University.
   
-- 📫 How to reach me **a02040456@gmail.com**
+- 📫 How to reach me **hasnaaabdelrahman60@gmail.com**
   
 
  <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt = "Coding" align = "right" width = "400px">
