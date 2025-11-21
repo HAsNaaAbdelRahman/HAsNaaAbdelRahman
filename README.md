@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasnaa AbdelRahman</h1>
 <h3 align="center">I'm interested in web development.</h3>
 
-- 🌱 I  am a full stack intern at Brack.alltron via RemoteCoders.
+- 🌱 I  am a full stack developer intern at Brack.alltron via RemoteCoders.
   
 - 📫 How to reach me **hasnaaabdelrahman60@gmail.com**
   
