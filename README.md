@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasnaa</h1>
 <h3 align="center">I'm interested in web development.</h3>
 
-- 🌱 I  am a full stack developer intern at Brack.alltron via RemoteCoders.
+- 🌱 I  am a Backend Software Engineer | ASP.NET & Spring Boot | Building Scalable APIs.
   
 - 📫 How to reach me **hasnaaabdelrahman60@gmail.com**
   
