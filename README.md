@@ -2,7 +2,7 @@
 <h3 align="center">I'm interested in web development.</h3>
 
 - 🌱 I  am a Backend Software Engineer | ASP.NET & Spring Boot | Building Scalable APIs.
-- interned at Brack.Alltron, Remotecoders 
+- 💼 Interned at  **Brack.Alltron, Remotecoders**.
   
 - 📫 How to reach me **hasnaaabdelrahman60@gmail.com**
   
